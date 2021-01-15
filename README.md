@@ -8,4 +8,4 @@ EP-Version 8.8
 
 The whole Building Envelope is illustrated below:
 
-![](https://github.com/MortezaHaddadi/DOEE/blob/main/assets/DOEE1.png)
+![](https://github.com/DOEE-BMS/EnergyPlus/blob/main/assets/DOEE1.png)
