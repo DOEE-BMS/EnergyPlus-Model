@@ -11,5 +11,5 @@ The whole Building Envelope is illustrated below:
 ![](https://github.com/DOEE-BMS/EnergyPlus/blob/main/assets/DOEE1.png)
 
 ## Files
-- [DOEE-EnergyPlus V0.1.1.idf](https://github.com/DOEE-BMS/EnergyPlus-Model/blob/main/DOEE-EnergyPlus%20V0.1.1.idf): EnergyPlus IDF file.```DOEE-BMS```
+- [DOEE-EnergyPlus V0.1.1.idf](/DOEE-EnergyPlus%20V0.1.1.idf): EnergyPlus IDF file.```DOEE-BMS```
 
