@@ -4,7 +4,7 @@ DOEE EnergyPlus simulation
 # DOEE
 DOEE building envelope EnergyPlus simulation 
 EP-Version 8.4.0
-### 3D Model EnvelopSummary![image](https://user-images.githubusercontent.com/37903091/117570489-888bf000-b0df-11eb-935b-b687bd0b80ac.png)
+### 3D Model Envelop Summary:
 
 The whole Building Envelope is illustrated below:
 
