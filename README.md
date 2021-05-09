@@ -16,6 +16,11 @@ The whole Building Envelope is illustrated below:
 ![](https://github.com/DOEE-BMS/EnergyPlus-Model/blob/main/assets/DOEE-EnergyPlus%20(3).png)
 
 
+### HVAC Model 
+![](https://github.com/DOEE-BMS/EnergyPlus-Model/blob/main/assets/DOEE-EnergyPlus.png)
+
+
+
 
 
 ## Files
