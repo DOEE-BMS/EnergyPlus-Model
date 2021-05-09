@@ -8,7 +8,7 @@ EP-Version 8.4.0
 
 The whole Building Envelope is illustrated below:
 
-![](https://github.com/DOEE-BMS/EnergyPlus/blob/main/assets/DOEE1.png)
+![](https://https://github.com/DOEE-BMS/EnergyPlus-Model/blob/main/assets/DOEE-EnergyPlus%20(2).png)
 
 ## Files
 - [DOEE-EnergyPlus V0.1.1.idf](/DOEE-EnergyPlus%20V0.1.1.idf): EnergyPlus IDF file.```DOEE-BMS```
